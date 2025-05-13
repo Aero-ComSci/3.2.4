@@ -1,6 +1,7 @@
 import pytest
-from student import Student
-from course import Course
+from CSE_324_skeleton_student import Student
+from CSE_324_course import Course
+
 
 math = Course("Algebra I")
 language = Course("Spanish I")
